@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(103, 99, 94);
+}
+
+h1 {
+    color: rgb(64, 255, 0);
+    background-color: cadetblue;
+}
+
+h3 {
+    color: magenta;
+}
+
+p {
+    color: rgb(104, 89, 104);
+    font-style: oblique;
+}
+
+button {
+    width: 100px;
+    background-color: rgb(105, 160, 160);
+    height: 30px;
+    border-radius: 20px;
+}
